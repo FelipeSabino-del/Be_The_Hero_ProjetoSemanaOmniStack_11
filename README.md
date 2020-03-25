@@ -1,4 +1,4 @@
-# Be_The-Hero_ProjetoSemanaOmniStack_11
+# Be_The_Hero_ProjetoSemanaOmniStack_11
 Repositório para criação do projeto "Be The Hero" apartir das aulas da Rocketseat na semana OmniStack 11.0
 
 Este projeto se baseia na criação de uma aplicação web e mobile utilizando as tecnolgias: Node.Js - ReactJS - React Native
