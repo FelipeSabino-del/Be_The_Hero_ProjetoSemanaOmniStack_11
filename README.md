@@ -3,4 +3,4 @@ Repositório para criação do projeto "Be The Hero" apartir das aulas da Rocket
 
 Este projeto se baseia na criação de uma aplicação web e mobile utilizando as tecnolgias: Node.Js - ReactJS - React Native
 
-O projeto é uma plataforma onde ONGs podem registrar suas causas e pedir apoio. A plataforma conta com comunicação entre as ONGs e os interessados através do Whatsapp e e-mails;
+O projeto é uma plataforma onde ONGs podem registrar suas causas e pedir apoio. A plataforma conta com comunicação entre ONGs e interessados através do Whatsapp e e-mails com conexão direta do App mobile;
